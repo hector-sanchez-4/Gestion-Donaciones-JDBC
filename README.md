@@ -35,7 +35,7 @@ Las tablas, restricciones, claves foráneas y datos de prueba se encuentran en:
 
 ```text
 sql/gestion_donaciones_sangre.sql
-
+````
 ## Autores
 
 Héctor Sánchez García, Mohamed Amin El Amrani El Khottouli, Pablo Cela Duran
